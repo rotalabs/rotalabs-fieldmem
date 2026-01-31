@@ -227,4 +227,4 @@ FieldMem builds on the Field-Theoretic Context System (FTCS) published in [Techn
 
 ## License
 
-MIT License - see LICENSE for details.
+AGPL-3.0 License - see [LICENSE](LICENSE) for details.
