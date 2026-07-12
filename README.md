@@ -4,7 +4,7 @@ Field-Theoretic Memory System - Field-theoretic memory for AI agents with natura
 
 [![PyPI version](https://badge.fury.io/py/rotalabs-fieldmem.svg)](https://badge.fury.io/py/rotalabs-fieldmem)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Overview
 
@@ -227,4 +227,4 @@ FieldMem builds on the Field-Theoretic Context System (FTCS) published in [Techn
 
 ## License
 
-AGPL-3.0 License - see [LICENSE](LICENSE) for details.
+Apache-2.0 License - see [LICENSE](LICENSE) for details.
